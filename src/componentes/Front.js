@@ -20,7 +20,7 @@ class Front extends Component {
                     FrontEnd 
                 </h5>
                 <h1 className="tamaño-titulo">
-                    Expertos en tecnologia digital y sevicios
+                    Expertos en tecnologia digital y servicios
                 </h1>
                 <button type="button" className="mt-lg-5 btn btn-outline-light">Conocenos y cuentanos sobre ti &rarr;</button>
             </div>

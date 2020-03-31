@@ -1,0 +1,10 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.no-bordes{
+  border: white !important;
+}
+.altura-cont{
+  height: 100vh;
+}
